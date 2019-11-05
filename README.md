@@ -1,2 +1,2 @@
-# python_flask_base
+# Base - Backend Flask (Python)
 Base Project for generating Backend APIs using Python and Flask
